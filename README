@@ -1,3 +1,4 @@
 Model predicting the detection of 9-amino-acids peptides from the Spike protein of the SARS-CoV-2 (all consecutive 9-mer segments from the entire 1273-amino-acid protein sequence).
 Protein sequence from: https://viralzone.expasy.org/8996
 * As part of Intro to Deep Learning course
+Explanations on implementation in ex1.pdf
